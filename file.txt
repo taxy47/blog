@@ -1,0 +1,10 @@
+ 驱动器 R 中的卷是 everything
+ 卷的序列号是 5A80-F49F
+
+ R:\self-learning\website\blog\image 的目录
+
+2025/02/17  11:32    <DIR>          .
+2025/02/17  20:17    <DIR>          ..
+2025/02/17  03:47             1,960 icons8-kawaii-broccoli-48.png
+               1 个文件          1,960 字节
+               2 个目录 16,881,229,824 可用字节
